@@ -1,0 +1,3 @@
+let message;
+message = 'abc';
+let endswithc =(message as string).endwith('c');
